@@ -1,4 +1,4 @@
-import BindableSwiftUIRedux
+import SwiftUIBindableRedux
 
 final class CounterState: ReduxRootState {
     typealias Store = CounterStore

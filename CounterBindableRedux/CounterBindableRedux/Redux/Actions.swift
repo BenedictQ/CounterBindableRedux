@@ -1,4 +1,4 @@
-import BindableSwiftUIRedux
+import SwiftUIBindableRedux
 
 struct UpdateBindingToggle: BindingUpdateAction {
     let state: Bool

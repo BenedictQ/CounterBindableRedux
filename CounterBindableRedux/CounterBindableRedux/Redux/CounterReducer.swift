@@ -1,4 +1,4 @@
-import BindableSwiftUIRedux
+import SwiftUIBindableRedux
 
 enum CounterReducer: ReduxRootReducer {
     static func reduce(_ action: ReduxAction, state: CounterState) -> CounterState {

@@ -1,5 +1,5 @@
 import SwiftUI
-import BindableSwiftUIRedux
+import SwiftUIBindableRedux
 
 struct Counter: View {
     @EnvironmentObject var store: CounterStore

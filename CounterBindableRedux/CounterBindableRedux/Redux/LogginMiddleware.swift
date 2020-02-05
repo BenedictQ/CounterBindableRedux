@@ -1,4 +1,4 @@
-import BindableSwiftUIRedux
+import SwiftUIBindableRedux
 
 enum LoggingMiddleware: Middleware {
     typealias Store = CounterStore
